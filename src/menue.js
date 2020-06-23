@@ -6,9 +6,7 @@ function Menue(props){
         <div>
             <html>
                 <head>
-                    <style>
-                        
-                    </style>
+                    
                     <title>Food Order</title>
                 </head>
                 <body>
